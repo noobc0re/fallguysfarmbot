@@ -1,5 +1,5 @@
 # fallguysfarmbot
-Simple bot to farm XP and Kudos
+Simple bot to farm XP and Kudos in Fall Guys
 
 1) Run "install deps.bat" as administrator
 2) Run "start.bat"
